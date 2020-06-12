@@ -1,0 +1,26 @@
+.contact {
+    margin: 40px 60px;
+}
+form {
+    margin-top: 15px;
+}
+input, textarea {
+    width: 300px;
+    padding: 10px;
+    margin: 10px 0px;
+    border: 1.5px solid rgb(99, 99, 99);
+    outline: none;
+}
+textarea {
+     height: 100px;
+}
+#sub {
+    width: 300px;
+    padding: 8px;
+    background-color:rgb(99, 99, 99);
+    color: #fff;
+    border: none; 
+}
+.contact h2 {
+    color:rgb(0, 208, 255);
+}
